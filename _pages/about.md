@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: <a href='https://www.learnsyslab.org'>Learning Systems and Robotics Lab</a>, TU Munich.
 
 profile:
   align: right
