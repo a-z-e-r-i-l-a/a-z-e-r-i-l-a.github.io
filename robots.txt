@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://a-z-e-r-i-l-a.github.io.github.io/sitemap.xml
+Sitemap: https://azerila.de/sitemap.xml
