@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.learnsyslab.org'>Learning Systems and Robotics Lab</a>, TU Munich.
+subtitle: 
 
 profile:
   align: right
@@ -10,9 +10,7 @@ profile:
   image_alt: Alireza Ranjbar portrait photo
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Building: N4, Room: N0405</p>
-    <p>Theresienstraße 90</p>
-    <p>80333 Munich, Germany</p>
+    <p>80333 Berlin, Germany</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
