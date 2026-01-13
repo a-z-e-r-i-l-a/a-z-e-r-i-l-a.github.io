@@ -1,9 +1,26 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"T-RO":
+  url: https://www.ieee-ras.org/publications/t-ro
 
-"PhysRev":
-  url: https://journals.aps.org/
+"SCL":
+  url: https://www.sciencedirect.com/journal/systems-and-control-letters
 
-"Vision":
-  color: "#009f36"
+"TMLR":
+  url: https://jmlr.org/tmlr/
+
+"at":
+  url: https://www.degruyter.com/journal/key/auto/html#
+
+"CDC22":
+  url: https://cdc2022.ieeecss.org/
+
+"NeurIPS_2021":
+  url: https://neurips.cc/Conferences/2021
+
+"3rd_L4DC":
+  url: https://l4dc.ethz.ch/
+
+"CoRL_2019":
+  url: https://sites.google.com/robot-learning.org/corl2019
+
+"IROS_2018":
+  url: https://www.iros2018.org/
