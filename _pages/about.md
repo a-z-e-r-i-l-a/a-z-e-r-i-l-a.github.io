@@ -6,8 +6,8 @@ subtitle: <a href='https://www.learnsyslab.org'>Learning Systems and Robotics La
 
 profile:
   align: right
-  image: alexander-von-rohr.png
-  image_alt: Alexander von Rohr portrait photo
+  image: Alireza_on_bike_cut.jpg
+  image_alt: Alireza Ranjbar portrait photo
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Building: N4, Room: N0405</p>
