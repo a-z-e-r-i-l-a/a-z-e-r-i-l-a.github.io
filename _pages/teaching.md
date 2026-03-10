@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Teaching activities by Alexander von Rohr.
+description: Teaching activities by Alireza Ranjbar.
 nav: true
 nav_order: 5
 ---
