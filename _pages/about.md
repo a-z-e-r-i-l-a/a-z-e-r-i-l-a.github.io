@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: Alireza_on_bike_cut.jpg
+  image: main.jpg
   image_alt: Alireza Ranjbar portrait photo
   image_circular: true # crops the image to make it circular
   more_info: >
