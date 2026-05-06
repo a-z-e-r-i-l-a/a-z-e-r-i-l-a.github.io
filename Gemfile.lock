@@ -159,8 +159,6 @@ GEM
     nokogiri (1.16.7)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
-    observer (0.1.2)
-    ostruct (0.6.3)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     prism (1.9.0)
@@ -245,8 +243,6 @@ DEPENDENCIES
   jekyll-toc
   jekyll-twitter-plugin
   jemoji
-  observer
-  ostruct
   unicode_utils
   webrick
 
